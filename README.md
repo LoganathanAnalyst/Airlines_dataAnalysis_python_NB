@@ -121,18 +121,6 @@ Dataset Size: **300,153 rows × 11 columns**
  ┗ 📂 images/ (charts & plots)
 ```
 
----
-
-## 📌 How to Run  
-1. Install required libraries:  
-   ```bash
-   pip install pandas numpy matplotlib seaborn
-   ```
-2. Open the notebook:  
-   ```bash
-   jupyter notebook flight_price_analysis.ipynb
-   ```
-3. Run all cells to view analysis & visualizations.
 
 ---
 
